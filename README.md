@@ -1,24 +1,17 @@
-# README
+# Agile Web Development with Rails 6 - Depot
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a ridealong with the Depot app discussed in the book by Sam Ruby, David Bryant Copeland with Dave Thomas
 
-Things you may want to cover:
+## Rails Version
+```
+6.1
+```
+## Ruby Version
+```
+2.7.4
+```
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Tests - MiniTest
+```
+rails test
+```
