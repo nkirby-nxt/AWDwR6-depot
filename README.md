@@ -15,3 +15,8 @@ This is a ridealong with the Depot app discussed in the book by Sam Ruby, David 
 ```
 rails test
 ```
+
+## Database
+```
+sqlite
+```
